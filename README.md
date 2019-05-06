@@ -1,5 +1,6 @@
 # CProgCourse
-Coursework / Projects from C Programming class
+Coursework / Projects from C Programming class  
+List of larger projects from course
 
 air.c - Airline seat reservation for one plane  
 card_shuffle.c - Shuffles deck of cards and outputs 5 cards to player (If statement is rather long, which shouldn't be)  
